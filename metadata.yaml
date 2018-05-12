@@ -1,0 +1,48 @@
+_repo: The-Trial-of-Charles-Random-de-Berenger-Sir-Thomas-Cochrane-8th-and-Thursday-the-9th-of-June-__21027
+_version: 0.1.0
+contributor:
+  transcriber:
+    agent_name: Gurney, William Brodie
+    alias: Gurney, W. B. (William Brodie)
+    birthdate: 1777
+    deathdate: 1855
+    gutenberg_agent_id: '9682'
+    url: http://www.gutenberg.org/2009/agents/9682
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21027'
+  lccn: '2005575506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Beaufain, Charles Random de Bérenger, baron de -- Trials, litigation, etc.'
+- !lcsh 'Butt, Richard Gathorne -- Trials, litigation, etc.'
+- !lcsh 'Johnstone, Andrew James Cochrane, 1767- -- Trials, litigation, etc.'
+- !lcsh 'Napoleonic Wars, 1800-1815'
+- !lcsh 'Lyte, Henry -- Trials, litigation, etc.'
+- !lcsh 'Dundonald, Thomas Cochrane, Earl of, 1775-1860 -- Trials, litigation, etc.'
+- !lcsh 'Trials (Fraud) -- England -- London'
+- !lcsh 'Holloway, John Peter -- Trials, litigation, etc.'
+- !lcsh 'McRae, Alexander -- Trials, litigation, etc.'
+- !lcsh 'Sandom, Richard -- Trials, litigation, etc.'
+title: 'The Trial of Charles Random de Berenger, Sir Thomas Cochrane,
+
+  commonly called Lord Cochrane, the Hon. Andrew Cochrane Johnstone,
+
+  Richard Gathorne Butt, Ralph Sandom, Alexander M''Rae, John Peter Holloway,
+
+  and Henry Lyte for A Conspiracy
+
+  In the Court of King''s Bench, Guildhall, on Wednesday the
+
+  8th, and Thursday the 9th of June, 1814'
+url: http://www.gutenberg.org/ebooks/21027
