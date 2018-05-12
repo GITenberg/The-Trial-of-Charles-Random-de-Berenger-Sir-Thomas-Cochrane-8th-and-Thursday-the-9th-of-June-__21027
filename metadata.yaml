@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21027#The-Trial-of-Charles-Random-de-Berenger-Sir-Thomas-Cochrane-8th-and-Thursday-the-9th-of-June-_
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2007-04-10'
 gutenberg_type: Text
